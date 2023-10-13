@@ -1,0 +1,40 @@
+
+body {
+	background-color: #012643;
+	color: gold;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	line-height: 1.5;
+	letter-spacing: 1px;
+}
+
+a {
+	color: gold ;
+}
+
+header > div {
+	display: flex;
+	justify-content: center;
+}
+header > div > p {
+	padding: 130px 10px;
+}
+
+body > div {
+	/* width: 570px; */
+	display: flex;
+	justify-content: center;
+}
+
+body > div > p {
+	max-width: 570px;
+}
+iframe {
+	border: 0px;
+	border-color: transparent;
+	margin: 10px;
+}
+
+footer > div {	
+	display: flex;
+	justify-content: center;
+}
