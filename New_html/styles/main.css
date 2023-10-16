@@ -19,13 +19,13 @@ header > div > p {
 	padding: 130px 10px;
 }
 
-body > div {
+main > div {
 	/* width: 570px; */
 	display: flex;
 	justify-content: center;
 }
 
-body > div > p {
+main > div > p {
 	max-width: 570px;
 }
 iframe {
